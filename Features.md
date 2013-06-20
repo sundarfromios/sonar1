@@ -31,7 +31,6 @@ see [Metrics definitions](http://docs.codehaus.org/display/SONAR/Metric+definiti
 * Blank comments
 * Comment lines
 * Comments (%)
-* Comments in Procedure Divisions
 * Public documented API (%)
 * Public undocumented API
 

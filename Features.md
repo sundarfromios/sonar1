@@ -1,6 +1,6 @@
 ####Available Sonar metrics
 see [Metrics definitions](http://docs.codehaus.org/display/SONAR/Metric+definitions)  
-(_to be implemented in the plugin_)
+_to be implemented in the plugin_
 
 #####Complexity
 * _Complexity_

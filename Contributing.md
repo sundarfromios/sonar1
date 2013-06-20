@@ -1,5 +1,5 @@
 ### Continuous Integration
-https://buildhive.cloudbees.com/job/fhelg/job/sonar-objective-c/
+https://rfelden.ci.cloudbees.com/job/sonar-objective-c/
 
 ### Coding standards
 ...

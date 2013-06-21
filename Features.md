@@ -1,6 +1,6 @@
 ####Available Sonar metrics
 see [Metrics definitions](http://docs.codehaus.org/display/SONAR/Metric+definitions)  
-_to be implemented in the plugin_
+( **feature implemented** / _to be implemented_ )
 
 #####Complexity
 * _Complexity_
@@ -28,9 +28,9 @@ _to be implemented in the plugin_
 * _Suspect LCOM4 density_
 
 #####Documentation
-* _Blank comments_
-* _Comment lines_
-* _Comments (%)_
+* **Blank comments**
+* **Comment lines**
+* **Comments (%)**
 * _Public documented API (%)_
 * _Public undocumented API_
 
@@ -55,10 +55,10 @@ _to be implemented in the plugin_
 #####Size
 * _Accessors_
 * _Classes_
-* _Directories_
-* _Files_
-* _Lines_
-* _Lines of code_
+* **Directories**
+* **Files**
+* **Lines**
+* **Lines of code**
 * _Methods_
 * _Packages_
 * _Projects_

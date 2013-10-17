@@ -35,22 +35,22 @@ see [Metrics definitions](http://docs.codehaus.org/display/SONAR/Metric+definiti
 * _Public undocumented API_
 
 #####Duplications
-* **_Duplicated blocks_**
+* **Duplicated blocks**
 * _Duplicated files_
-* **_Duplicated lines_**
-* **_Duplicated lines (%)_**
+* **Duplicated lines**
+* **Duplicated lines (%)**
 
 #####Issues
-* **_New issues_**
-* **_New xxxxx issues_**
-* **_Issues_**
-* **_xxxxx issues_**
-* **_False positive issues_**
-* **_Open issues_**
-* **_Confirmed issues_**
-* **_Reopened issues_**
-* **_Weighted issues_**
-* **_Rules compliance_**
+* **New issues**
+* **New xxxxx issues**
+* **Issues**
+* **xxxxx issues**
+* **False positive issues**
+* **Open issues**
+* **Confirmed issues**
+* **Reopened issues**
+* **Weighted issues**
+* **Rules compliance**
 
 #####Size
 * _Accessors_
@@ -66,20 +66,20 @@ see [Metrics definitions](http://docs.codehaus.org/display/SONAR/Metric+definiti
 * _Statements_
 
 #####Tests
-* **_Branch coverage_**
-* **_Coverage_**
-* **_Line coverage_**
-* **_Lines to cover_**
-* **_New branch coverage_**
-* **_New coverage_**
-* **_New line coverage_**
-* **_New lines to cover_**
-* **_New uncovered line_**
-* **_Skipped unit tests_**
-* **_Uncovered branches_**
-* **_Uncovered lines_**
-* **_Unit tests_**
-* **_Unit tests duration_**
-* **_Unit test errors_**
-* **_Unit test failures_**
-* **_Unit test success density (%)_**
+* **Branch coverage**
+* **Coverage**
+* **Line coverage**
+* **Lines to cover**
+* **New branch coverage**
+* **New coverage**
+* **New line coverage**
+* **New lines to cover**
+* **New uncovered line**
+* **Skipped unit tests**
+* **Uncovered branches**
+* **Uncovered lines**
+* **Unit tests**
+* **Unit tests duration**
+* **Unit test errors**
+* **Unit test failures**
+* **Unit test success density (%)**

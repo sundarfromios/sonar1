@@ -15,7 +15,7 @@ scan(
      custom_report_file_name: "TEST-report.xml",
      xcargs: "ONLY_ACTIVE_ARCH=YES"
    )
-   slather(
+slather(
      simple_output: true,
      cobertura_xml: true,
      output_directory: "sonar-reports",
@@ -24,7 +24,7 @@ scan(
      build_directory: "sonar-reports",
      ignore: ["../../../Applications/Xcode.app/*", "../../../../../Applications/Xcode.app/*", "Vendors/*", "Crashlytics.framework/*"]
    )
-   oclint(
+oclint(
      compile_commands: "sonar-reports/compile_commands.json",
      report_type: 'pmd',
      select_regex: /your_src_folder/,
@@ -36,5 +36,5 @@ scan(
      list_enabled_rules: true,
      report_path: "sonar-reports/oclint.xml"
    )
-   sonar
+sonar
 ```

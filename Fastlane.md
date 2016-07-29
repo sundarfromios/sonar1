@@ -52,3 +52,9 @@ gem 'slather'
 > bundle install
 > fastlane --version
 ```
+
+migrate your sonar-project.properties by adding
+
+```
+sonar.objectivec.coverage.reportPattern=sonar-reports/cobertura.xml
+```

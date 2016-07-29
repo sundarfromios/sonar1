@@ -38,3 +38,17 @@ oclint(
    )
 sonar
 ```
+
+to install fastlane and slather, you have to use gem (bundler and rbenv is more suitable)
+
+```
+> cat Gemfile
+source "https://rubygems.org"
+ruby '2.0.0'
+gem 'fastlane', '>= 1.99.0'
+gem 'slather'
+
+> gem install bundler
+> bundle install
+> fastlane --version
+```
